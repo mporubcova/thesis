@@ -401,7 +401,7 @@ ShortStocks <- data %>% select(assets, FactorScore) %>% unique() %>% arrange(Fac
 # pmg(return ~ log(ME) + log(BM) + X1 + X2, data=YourData, index=c("Year","StockID"))
 
 
-
+dfkjafjgaslygfjhagfdjhdasgfdsjhgdfas
 
 
 
